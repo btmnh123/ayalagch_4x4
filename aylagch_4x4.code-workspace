@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "../login_register"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "login_register",
+		"liveServer.settings.port": 5501
+	}
+}
